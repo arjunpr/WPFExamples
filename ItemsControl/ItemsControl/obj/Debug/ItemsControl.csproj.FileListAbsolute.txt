@@ -1,0 +1,16 @@
+C:\Users\Arjun\source\WPF Examples\ItemsControl\ItemsControl\bin\Debug\ItemsControl.exe.config
+C:\Users\Arjun\source\WPF Examples\ItemsControl\ItemsControl\bin\Debug\ItemsControl.exe
+C:\Users\Arjun\source\WPF Examples\ItemsControl\ItemsControl\bin\Debug\ItemsControl.pdb
+C:\Users\Arjun\source\WPF Examples\ItemsControl\ItemsControl\obj\Debug\ItemsControl.csprojAssemblyReference.cache
+C:\Users\Arjun\source\WPF Examples\ItemsControl\ItemsControl\obj\Debug\MainWindow.g.cs
+C:\Users\Arjun\source\WPF Examples\ItemsControl\ItemsControl\obj\Debug\App.g.cs
+C:\Users\Arjun\source\WPF Examples\ItemsControl\ItemsControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Arjun\source\WPF Examples\ItemsControl\ItemsControl\obj\Debug\ItemsControl_MarkupCompile.cache
+C:\Users\Arjun\source\WPF Examples\ItemsControl\ItemsControl\obj\Debug\ItemsControl_MarkupCompile.lref
+C:\Users\Arjun\source\WPF Examples\ItemsControl\ItemsControl\obj\Debug\MainWindow.baml
+C:\Users\Arjun\source\WPF Examples\ItemsControl\ItemsControl\obj\Debug\ItemsControl.g.resources
+C:\Users\Arjun\source\WPF Examples\ItemsControl\ItemsControl\obj\Debug\ItemsControl.Properties.Resources.resources
+C:\Users\Arjun\source\WPF Examples\ItemsControl\ItemsControl\obj\Debug\ItemsControl.csproj.GenerateResource.cache
+C:\Users\Arjun\source\WPF Examples\ItemsControl\ItemsControl\obj\Debug\ItemsControl.csproj.CoreCompileInputs.cache
+C:\Users\Arjun\source\WPF Examples\ItemsControl\ItemsControl\obj\Debug\ItemsControl.exe
+C:\Users\Arjun\source\WPF Examples\ItemsControl\ItemsControl\obj\Debug\ItemsControl.pdb
